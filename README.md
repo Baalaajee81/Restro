@@ -1,3 +1,7 @@
-# Restro
-Restuarant application website
-First order received and processed!!!
+# Restaurant Menu Application
+
+Food Menu with Details
+
+This is tech food company which displays food items with price
+
+edited 
